@@ -1,4 +1,5 @@
-### Clone only one branch
+## Git
+### Cloning only one branch
 
 ```shell
 git clone --single-branch -b BRANCH_NAME REPO_URL
